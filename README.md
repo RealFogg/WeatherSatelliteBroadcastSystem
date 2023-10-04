@@ -6,7 +6,7 @@ The Weather Satellite Broadcast System is a Java-based application designed to e
 
 - Secure data encryption using RSA algorithm
 - Efficient data compression using Deflate algorithm
-- Reliable data transmission for weather updates
+- Reliable data transmission framework for weather updates
 
 ## Usage
 
