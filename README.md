@@ -18,10 +18,3 @@ The Weather Satellite Broadcast System is a Java-based application designed to e
 
 - Java Development Kit (JDK) 8 or higher
 
-## Contributing
-
-Contributions are welcome! Please submit pull requests or open issues for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
